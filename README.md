@@ -67,10 +67,5 @@ Multiple Linear Regression uses two or more independent variables to predict a t
 7. Can linear regression be used for classification?
 No, it is not suitable for classification. Linear regression predicts continuous values (like price). Classification predicts discrete categories (like "Yes/No"). Algorithms like Logistic Regression are designed for this purpose.
 
-8. What happens if you violate regression assumptions?
+8. What happens if you violate regression assumptions?.
 Violating the assumptions makes the model's results unreliable. The coefficients may be biased, and their standard errors will be inaccurate, leading to faulty conclusions about which predictors are truly significant.   
-   
-
-1.  Clone the repository.
-2.  Ensure you have Python and the required libraries installed.
-3.  Run the `main.py` script. The script will train the model, print the evaluation metrics, and display the confusion matrix and ROC curve plots.
